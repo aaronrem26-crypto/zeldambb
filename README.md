@@ -1,1 +1,30 @@
-# zeldambb
+<!DOCTYPE html> 
+
+<html>
+     <head>
+          <meta charset="utf-8">
+          <title>zelda l'amour de ma vie</title>
+
+     </head>
+
+     <body>
+         <h1>Emi je t'aime <3</h1>
+
+         <p>Emi, après 7 mois en couple avec moi tu as changé toute ma vie.</p>
+         
+         <p>On a passé des super moments de notre premier date sous 40 degrés prime
+         jusqu'a nos vacances respectives en juillet en passant par nos premiers
+         moments en couple en aout, aussi tout les weekends chez sonia et chez ma maman
+         et j'en passe, pour finir a l'installation de la terrasse de louloudub.</p> 
+
+         <p>Il y'a aussi nos embrouilles et la peur mais malgré ça, on a jamais perdu notre
+         alchimie.</p>
+
+         <p>Tu me rends tout les jours plus heureux Emi.</p>
+
+         <p>Merci d'etre dans ma vie.</p>
+
+         <p>Je t'aime de tout mon coeur.
+
+        <p>Pour toujours Zelda.</p>
+        </p>
